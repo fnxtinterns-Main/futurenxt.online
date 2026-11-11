@@ -1,0 +1,37 @@
+# ====================================================================
+# FutureNxt Git Ignore Configuration
+# ====================================================================
+
+# Legacy Archive & Local Workspaces
+FNXT/
+futurenxt.online/
+
+# Logs and Runtime Generated Data
+*.log
+submissions.log
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db:encryptable
+desktop.ini
+
+# IDE & Editor Directories
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.fleet/
+
+# Temporary / Sandbox Files
+*.tmp
+*.bak
+~*

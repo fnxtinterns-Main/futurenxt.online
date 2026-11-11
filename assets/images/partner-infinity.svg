@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <defs>
+    <linearGradient id="infGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C6A45C"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+  <path d="M42 40 C34 26 18 26 12 34 C6 42 12 54 22 54 C32 54 40 44 48 36 C56 28 64 26 74 26 C84 26 90 38 84 46 C78 54 62 54 54 40 Z" fill="none" stroke="url(#infGrad)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M48 24 L56 20 L64 24 L56 28 Z M64 24 L64 30" fill="#C6A45C" stroke="#121212" stroke-width="0.8"/>
+  <text x="96" y="38" font-family="'Montserrat', sans-serif" font-weight="800" font-size="20" fill="#121212" letter-spacing="-0.5">INFINITY</text>
+  <text x="96" y="55" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="12" fill="#C6A45C" letter-spacing="2">LEARNING</text>
+</svg>
